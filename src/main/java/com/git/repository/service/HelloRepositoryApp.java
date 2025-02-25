@@ -17,5 +17,6 @@ public class HelloRepositoryApp
     public static void main(String[] args)
     {
         System.out.println("Welcome to Git Repo Simulations");
+        System.out.println("Git Repo Simulation Test cases");
     }
 }

@@ -18,5 +18,6 @@ public class HelloRepositoryApp
     {
         System.out.println("Welcome to Git Repo Simulations");
         System.out.println("Git Repo Simulation Test cases");
+        System.out.println("Latest Updates");
     }
 }
